@@ -1,0 +1,84 @@
+/* Home Page */
+
+#quizTitle{
+    font-family: 'Capriola', sans-serif;
+    text-align: center;
+    margin: auto;
+    width: 350px;
+    border: 5px solid;
+    border-radius: 15px;
+    margin-top: 20%;
+    height: 300px;
+    background-color: rgb(202, 202, 202);
+    
+}
+
+h1{
+    padding: 5px;
+    font-family: 'Capriola', sans-serif;
+}
+
+p{
+    padding: 10px;
+    font-family: 'Capriola', sans-serif;
+    font-weight: bold;
+}
+
+#startQuiz{
+    text-decoration: none;
+    background-color: rgb(202, 202, 202);
+    color: rgb(0, 184, 0);
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid;
+    border-radius: 5px;
+    margin-bottom: 30px;
+    font-size: x-large;
+    
+
+}
+
+/* Highscores page */
+
+#highscoreHeader{
+    margin-top: 10%;
+    font-size: 200%;
+    text-align: center;
+    font-family: 'Capriola', sans-serif;
+}
+
+
+/* Questions Page */
+
+.questionContainer{
+    font-family: 'Capriola', sans-serif;
+    text-align: center;
+    margin: auto;
+    width: 350px;
+    border: 5px solid;
+    border-radius: 15px;
+    margin-top: 20%;
+    height: 300px;
+    background-color: rgb(202, 202, 202);
+}
+
+ol{
+    list-style: none;
+    padding: 5px;
+    margin: 10px;
+    align-content: center;
+}
+
+li{
+    margin: 10px;
+}
+
+button{
+    margin: 5px;
+    align-content: center;
+    width: 30%;
+    font-weight: bold;
+    font-family: 'Capriola', sans-serif;
+    font-size: 100%;
+
+}
